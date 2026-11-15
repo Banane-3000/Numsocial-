@@ -1,5 +1,6 @@
-# Numsocial-
+# Numsocial
 numtube : (youtube), Numchat (Snapchat), Numscreen (partage d'écran, tt les jeux PC etc.), Numcam (Cameran de tel) , Numblocks en multijoueurs (minecraft en multijoueurs).                                     Disponible en 1 seule app et pour numworks n0110, n0115 et n0120.
+/!\CE QUI EST ECRIS EN DESSOUS VIENT DU DEPOT DE https://github.com/derim00/numsocial , IL N EST PAS NECESSAIRE DE LE SUIVRE VU QUE JE L AI DEJA ADAPTE POUR N0110 ET COMPILE! /!\
 
 # NumSocial : les réseaux sociaux sur NumWorks
 
